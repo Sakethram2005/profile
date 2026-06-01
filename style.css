@@ -1,7 +1,7 @@
 body{
     font-family: Arial, sans-serif;
     text-align:center;
-    background:#f4f4f4;
+    background:#lightblue;
     padding:20px;
 }
 
@@ -16,7 +16,7 @@ img{
 }
 
 section{
-    background:white;
+    background:lightblue;
     margin:20px auto;
     padding:20px;
     max-width:600px;
